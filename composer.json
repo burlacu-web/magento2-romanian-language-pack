@@ -5,7 +5,7 @@
     "AL-2.0"
   ],
   "require": {
-    "magento/framework": "100.1.*"
+    "magento/framework": "*"
   },
   "type": "magento2-language",
   "version": "1.1.3",
