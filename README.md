@@ -9,7 +9,7 @@ The Romanian language pack maintained and supported by [Burlacu Web](https://bur
 
 ### Installation using Composer
 
-* Require via Composer CLI `composer require `
+* Require via Composer CLI `composer require burlacu-web/magento2-romanian-language-pack`
 * Upgrade installation using `php bin/magento setup:upgrade`
 * Clear cache using `php bin/magento cache:clean`
 * Deploy static content `php bin/magento setup:static-content:deploy ro_RO`
