@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'eadesigndev_ro_ro',
+    'burlacuweb_ro_ro_language_pack',
     __DIR__
 );

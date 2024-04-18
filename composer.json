@@ -1,14 +1,23 @@
 {
-  "name": "eadesignro/ro_ro",
-  "description": "Romanian language pack for Magento 2 CE",
+  "name": "burlacu-web/magento2-romanian-language-pack",
+  "description": "Romanian language pack for Adobe Commerce (Magento 2)",
+  "keywords": [
+    "adobe commerce",
+    "magento",
+    "magento2",
+    "romanian",
+    "language",
+    "pack",
+    "translation"
+  ],
   "license": [
-    "AL-2.0"
+    "AFL-2.0"
   ],
   "require": {
     "magento/framework": "*"
   },
   "type": "magento2-language",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "autoload": {
     "files": [
       "registration.php"
